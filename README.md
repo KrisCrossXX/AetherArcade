@@ -1,4 +1,4 @@
-# Aether Arcade
+# Sidequest
 
 A warm, mobile-friendly browser start page with editable shortcuts, an embedded browsing view, and a searchable catalog of browser-playable games.
 
